@@ -1,2 +1,11 @@
-# tallerpablosalazar_c
-taller de instalación y configuración de entorno de desarrollo 
+# Instalacion y configuracion de entorno de desarollo 
+
+- Autor: Pablo Salazar
+- Fecha: 2023-06-02 
+
+## Descripcion 
+
+## Funcionamiento 
+
+![](img/programacion.jpg)
+
